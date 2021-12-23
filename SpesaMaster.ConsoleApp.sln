@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpesaMaster.ConsoleApp", "SpesaMaster.ConsoleApp\SpesaMaster.ConsoleApp.csproj", "{663A78EC-C0BF-4A60-B303-42D64A2DF068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{663A78EC-C0BF-4A60-B303-42D64A2DF068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{663A78EC-C0BF-4A60-B303-42D64A2DF068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{663A78EC-C0BF-4A60-B303-42D64A2DF068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{663A78EC-C0BF-4A60-B303-42D64A2DF068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4CC6F86-F166-4CE0-86F3-486BBE8752CB}
+	EndGlobalSection
+EndGlobal
